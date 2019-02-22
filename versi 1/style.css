@@ -1,0 +1,17 @@
+body {
+        background-color: #222;
+    }
+ 
+    .kotak {
+        background-color: #1c34e8;
+        height: 300px;
+        width: 280px;
+        border-radius: 10px;
+        position: relative;
+        top: 30%;
+        left: 40%;
+    }
+
+p {
+     text-align: center;   
+}
